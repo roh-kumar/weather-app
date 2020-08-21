@@ -1,0 +1,11 @@
+html {
+  text-align: center;
+}
+
+body {
+  color: #fff;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  background-image: url("./bg2.jpg");
+  background-size: auto;
+}
