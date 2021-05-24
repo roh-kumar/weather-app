@@ -9,7 +9,7 @@ import * as ReactBootStrap from "react-bootstrap";
 const api = {
   key: "bff03f6366c448f6a45ab086a4bb1dcb",
   base: "https://api.weatherbit.io/v2.0/",
-  key_h: "e3474f902d804ee78eb150156202710",
+  key_h: "71e0c7e2a69c4934890140907212405",
   base_h: "https://api.worldweatheronline.com/premium/v1/",
 };
 
